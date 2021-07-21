@@ -687,7 +687,7 @@ Now that you've hooked everything up, time to deploy to production.
   ```
   netlify build
   ```
-
+  Deployed website : https://musing-elion-60bada.netlify.app/
   * Then run
   ```
   netlify deploy --prod
